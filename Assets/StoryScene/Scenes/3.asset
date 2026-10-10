@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04cb016509bbf7243b4617cb746d4d61, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Now, it\u2019s up to you! Match the magic tiles, solve puzzles, and outsmart
+      the robots to rescue every pet. But beware... match the wrong tiles, and the
+      robots win!"
+    heading: {fileID: 11400000, guid: 9a4f02fbb533a53498280530b3cb995c, type: 2}
+  background: {fileID: 21300000, guid: 996e73d5bef91b3418dd5c7503567690, type: 3}
+  nextScene: {fileID: 11400000, guid: 42d21d5b78b364d46a42603ed64d33ca, type: 2}

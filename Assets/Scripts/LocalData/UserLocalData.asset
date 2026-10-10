@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e24527a4fb0adf448cf39922c15e59e, type: 3}
+  m_Name: UserLocalData
+  m_EditorClassIdentifier: 
+  userID: Emf3acSg8AUefYGbRNqAONw882t2
+  username: nuunu
+  playerLevel: 48
+  petCoins: 3
+  playerCoins: 250
+  playerDiamonds: 0
+  playerGems: 0
+  playerBoosts: 0
+  playerLives: 5
+  lastLifeRefillTime: 2025-12-17T23:33:26.4079665+04:00
+  highScore: 1740
+  storyDone: 0
+  masterVolume: 1
+  sfxVolume: 1
+  musicVolume: 1
+  vibrationEnabled: 1
+  notificationEnabled: 1
+  petToUnlock: 2
+  petRescueDataContainer: {fileID: 11400000, guid: c8da840f445f32c4eaa11c377adbe38e,
+    type: 2}
+  lastDailyRewardClaimed: 2025-12-16T19:33:26.4079665Z
+  selectedAvatarID: 1
+  powerUpsData:
+    grenade: 3
+    laserPostol: 6
+    laserRifle: 5
+    bubbleGum: 3

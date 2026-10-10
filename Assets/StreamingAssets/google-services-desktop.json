@@ -1,0 +1,30 @@
+{
+    "project_info": {
+        "project_number": "242646950706",
+        "firebase_url": "https://pet-rescue-puzzle-default-rtdb.firebaseio.com",
+        "project_id": "pet-rescue-puzzle",
+        "storage_bucket": "pet-rescue-puzzle.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:242646950706:android:84883e5b445594c0782d2b",
+                "android_client_info": {
+                    "package_name": "com.KombaGamesLLC.PetRescuePuzzle"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyD3o-DI0w6BHPj0mLhf_xSwhXONgJrMSEE"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

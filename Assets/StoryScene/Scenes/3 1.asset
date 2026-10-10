@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04cb016509bbf7243b4617cb746d4d61, type: 3}
+  m_Name: 3 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Can you lead Jonah to freedom and faith\u2019s\_triumph?sds"
+    heading: {fileID: 11400000, guid: d3e934df77e0222439764541eae41fe5, type: 2}
+  background: {fileID: 21300000, guid: 5a925fc098e84c24582d0818714bd9a1, type: 3}
+  nextScene: {fileID: 0}

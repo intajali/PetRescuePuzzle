@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e7c2dadad8ac44d957ae8aae16db04, type: 3}
+  m_Name: ClipDataContainer
+  m_EditorClassIdentifier: 
+  clipDatas:
+  - name: menu
+    clip: {fileID: 8300000, guid: e42d09099485e62468fe96033951d372, type: 3}
+    clipTypes: 1
+  - name: gameplay
+    clip: {fileID: 8300000, guid: 747bb485de002b746bee3bdeea6cbc33, type: 3}
+    clipTypes: 2
+  - name: buttonclick
+    clip: {fileID: 8300000, guid: ef2ad9ff41ad417459566f09fd4391fb, type: 3}
+    clipTypes: 6
+  - name: granade
+    clip: {fileID: 8300000, guid: fabb630f24bb5984c904eee1c9b84423, type: 3}
+    clipTypes: 3
+  - name: pistol
+    clip: {fileID: 8300000, guid: 0956dae515cdcea4097bbddad967917b, type: 3}
+    clipTypes: 11
+  - name: tileclear
+    clip: {fileID: 8300000, guid: abde52f859c83cf42b080ae60830ed76, type: 3}
+    clipTypes: 7
+  - name: levelfailed
+    clip: {fileID: 8300000, guid: 4d696df4df9c9d44e9c097790fcb6d57, type: 3}
+    clipTypes: 9
+  - name: story
+    clip: {fileID: 8300000, guid: 6ce0b412496fd81499eb419bce629eb8, type: 3}
+    clipTypes: 0
+  - name: buy
+    clip: {fileID: 8300000, guid: 142fdadb7814b214398fc430786fb802, type: 3}
+    clipTypes: 10
+  - name: levelcomplete
+    clip: {fileID: 8300000, guid: d03f9b405de0bbe43a09500d0b7a6d7c, type: 3}
+    clipTypes: 8
+  - name: rifle
+    clip: {fileID: 8300000, guid: 6b014c4f30fd5ec4d809cbf16e248f0d, type: 3}
+    clipTypes: 12
+  - name: bubblegun
+    clip: {fileID: 8300000, guid: 0c03a99917bdca842b8c39ab2822eda8, type: 3}
+    clipTypes: 13
+  - name: fire
+    clip: {fileID: 8300000, guid: d8098f4137f4de74187dc28097155456, type: 3}
+    clipTypes: 5

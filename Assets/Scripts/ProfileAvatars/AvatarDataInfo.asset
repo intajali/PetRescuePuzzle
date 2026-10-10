@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf126b8e3babe514fb71e24c78e68991, type: 3}
+  m_Name: AvatarDataInfo
+  m_EditorClassIdentifier: 
+  avatarInfoList:
+  - avatarIndexID: 0
+    isSelected: 0
+    avatarIcon: {fileID: 21300000, guid: 703449ee3b4012b4d8f878b9ac4d9f2e, type: 3}
+  - avatarIndexID: 1
+    isSelected: 0
+    avatarIcon: {fileID: 21300000, guid: 1c539a71413dc9b4fb8750258236f148, type: 3}
+  - avatarIndexID: 2
+    isSelected: 0
+    avatarIcon: {fileID: 21300000, guid: 470849beb0282204cab634761eedb1eb, type: 3}
+  - avatarIndexID: 3
+    isSelected: 0
+    avatarIcon: {fileID: 21300000, guid: 5a60668b7a11ba54d82cbd23a4abb88c, type: 3}
+  - avatarIndexID: 4
+    isSelected: 0
+    avatarIcon: {fileID: 21300000, guid: 4ec6f1840d71fe1429018c1a576dd92c, type: 3}
+  - avatarIndexID: 5
+    isSelected: 0
+    avatarIcon: {fileID: 21300000, guid: 9e5b720290a6ca1499743d69d0dd0cfd, type: 3}
+  - avatarIndexID: 6
+    isSelected: 0
+    avatarIcon: {fileID: 21300000, guid: 046c70a1932a47346b2bdb33f6fbddfd, type: 3}

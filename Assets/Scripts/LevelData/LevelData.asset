@@ -1,0 +1,1051 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53a34d377d31c3f4a825f6258fff1a05, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  LevelInfoList:
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 10
+    moveCount: 10
+    coinRewards: 30
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 25
+    moveCount: 18
+    coinRewards: 30
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 25
+    moveCount: 15
+    coinRewards: 30
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 30
+    moveCount: 15
+    coinRewards: 30
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 30
+    moveCount: 16
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 35
+    moveCount: 18
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 35
+    moveCount: 18
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 40
+    moveCount: 20
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 42
+    moveCount: 20
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 45
+    moveCount: 18
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 40
+    moveCount: 15
+    coinRewards: 40
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 20
+    moveCount: 10
+    coinRewards: 0
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 50
+    moveCount: 15
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 50
+    moveCount: 15
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 50
+    moveCount: 15
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 15
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 15
+    moveCount: 15
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 15
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 15
+    moveCount: 20
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 60
+    moveCount: 15
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 60
+    moveCount: 15
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 25
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 25
+    moveCount: 20
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 60
+    moveCount: 30
+    coinRewards: 60
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 65
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 68
+    moveCount: 28
+    coinRewards: 75
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 70
+    moveCount: 30
+    coinRewards: 55
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 70
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 45
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 32
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 32
+    moveCount: 32
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 40
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 40
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 45
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 45
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 45
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 42
+    moveCount: 22
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 36
+    moveCount: 20
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 46
+    moveCount: 24
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 60
+    moveCount: 28
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 68
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 70
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 72
+    moveCount: 35
+    coinRewards: 40
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 75
+    moveCount: 35
+    coinRewards: 40
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 78
+    moveCount: 27
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 80
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 82
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 85
+    moveCount: 31
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 88
+    moveCount: 32
+    coinRewards: 65
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 60
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 60
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 62
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 62
+    moveCount: 30
+    coinRewards: 80
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 65
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 65
+    moveCount: 40
+    coinRewards: 65
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 70
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 70
+    moveCount: 45
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 72
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 72
+    moveCount: 36
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 32
+    moveCount: 15
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 32
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 32
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 40
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 40
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 45
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 45
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 45
+    moveCount: 28
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 42
+    moveCount: 13
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 36
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 46
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 60
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 60
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 60
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 70
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 80
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 70
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 42
+    moveCount: 22
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 32
+    moveCount: 22
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 32
+    moveCount: 20
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 43
+    moveCount: 24
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 32
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 28
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 25
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 20
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 20
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 22
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 22
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 25
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 25
+    moveCount: 28
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 30
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 30
+    moveCount: 28
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 32
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 32
+    moveCount: 32
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 35
+    moveCount: 36
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 40
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 40
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 42
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 42
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 42
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 42
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 45
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 45
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 48
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 48
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 48
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 10
+      petCount: 48
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 40
+    moveCount: 22
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 38
+    moveCount: 19
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 35
+    moveCount: 20
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 32
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 6
+      petCount: 32
+    moveCount: 32
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 28
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 5
+      petCount: 28
+    moveCount: 28
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 22
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 8
+      petCount: 22
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 68
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 18
+    moveCount: 7
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 70
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 25
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 25
+    moveCount: 20
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 30
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 20
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 20
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 20
+    moveCount: 25
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 22
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 22
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 25
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 25
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 25
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 25
+    moveCount: 28
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 30
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 30
+    moveCount: 28
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 30
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 30
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 32
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 32
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: c8a916b41d6effa4484c69cd2443fc62, type: 3}
+      jewelType: 4
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 35
+    moveCount: 35
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 2454861c4a399b1408a587ef6a0db29c, type: 3}
+      jewelType: 10
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 35
+    moveCount: 40
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 8b86d67c2b411d248a7d4a8461e9c61d, type: 3}
+      jewelType: 7
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 32df2755ae416484b97ca683b3bea760, type: 3}
+      jewelType: 9
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 84692b7a26936f9438365cfa083c84c0, type: 3}
+      jewelType: 1
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 4568531059718c24c93d50b2c4ad69fb, type: 3}
+      jewelType: 5
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: 1e16a6e9b935d364dab9301ef850e711, type: 3}
+      jewelType: 2
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: c8e066c95a4fb5e419b8707437bb2ed1, type: 3}
+      jewelType: 6
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
+  - petToCollect:
+    - jewelSprite: {fileID: 21300000, guid: deb76ed1100a3b348a4be0fc46737c0d, type: 3}
+      jewelType: 3
+      petCount: 35
+    - jewelSprite: {fileID: 21300000, guid: 7b005bb60b74dc345a2f108af745e178, type: 3}
+      jewelType: 8
+      petCount: 35
+    moveCount: 30
+    coinRewards: 50
+    starsObtained: 0
